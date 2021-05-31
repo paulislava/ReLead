@@ -1,0 +1,1 @@
+SELECT COUNT(`ip`) AS `cnt` FROM `events` WHERE `site_id` = 1 AND `referrer_id` = '1' GROUP BY `event_id`

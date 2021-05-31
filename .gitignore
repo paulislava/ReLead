@@ -1,0 +1,7 @@
+/.cache/**
+/cgi-bin/**
+/document_errors/**
+/private/**
+/stats/**
+/logs/**
+/public_shtml/**
